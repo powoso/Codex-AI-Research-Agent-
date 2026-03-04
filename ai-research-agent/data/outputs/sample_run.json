@@ -1,0 +1,92 @@
+{
+  "run_id": "e51ea1ce-8d72-440b-905d-17be633cf25b",
+  "question": "How do major institutions frame AI risk management in 2026?",
+  "report_md": "# Research Report\n\nQuestion: How do major institutions frame AI risk management in 2026?\n\n## Executive summary\n\n## Key findings\n\n## Open questions + what would change my mind\n- What contradictory high-quality studies exist that dispute these trends? [S1]\n- What recent policy updates post-date fetched sources? [S1]\n- What would change my mind: replicated evidence from multiple independent institutions. [S1]\n\n## Adversarial counterarguments\n1. Selection bias from seed corpus may miss dissenting evidence [S1].\n2. Freshness risk: some sources may be outdated [S1].\n3. Publication incentives can overstate outcomes [S1].\n",
+  "evidence_table": [],
+  "sources": [
+    {
+      "tag": "S1",
+      "title": null,
+      "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+      "published_at": null,
+      "fetched_at": null
+    },
+    {
+      "tag": "S2",
+      "title": null,
+      "url": "https://ai.google/discover/",
+      "published_at": null,
+      "fetched_at": null
+    },
+    {
+      "tag": "S3",
+      "title": null,
+      "url": "https://ai.meta.com/blog/",
+      "published_at": null,
+      "fetched_at": null
+    },
+    {
+      "tag": "S4",
+      "title": null,
+      "url": "https://aiindex.stanford.edu/report/",
+      "published_at": null,
+      "fetched_at": null
+    },
+    {
+      "tag": "S5",
+      "title": null,
+      "url": "https://allenai.org/news",
+      "published_at": null,
+      "fetched_at": null
+    },
+    {
+      "tag": "S6",
+      "title": null,
+      "url": "https://apnews.com/hub/artificial-intelligence",
+      "published_at": null,
+      "fetched_at": null
+    },
+    {
+      "tag": "S7",
+      "title": null,
+      "url": "https://arxiv.org/list/cs.AI/recent",
+      "published_at": null,
+      "fetched_at": null
+    },
+    {
+      "tag": "S8",
+      "title": null,
+      "url": "https://blogs.nvidia.com/blog/category/ai/",
+      "published_at": null,
+      "fetched_at": null
+    },
+    {
+      "tag": "S9",
+      "title": null,
+      "url": "https://carnegieendowment.org/topic/artificial-intelligence",
+      "published_at": null,
+      "fetched_at": null
+    },
+    {
+      "tag": "S10",
+      "title": null,
+      "url": "https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/excellence-and-trust-artificial-intelligence_en",
+      "published_at": null,
+      "fetched_at": null
+    },
+    {
+      "tag": "S11",
+      "title": null,
+      "url": "https://deepmind.google/discover/blog/",
+      "published_at": null,
+      "fetched_at": null
+    },
+    {
+      "tag": "S12",
+      "title": null,
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence",
+      "published_at": null,
+      "fetched_at": null
+    }
+  ]
+}
